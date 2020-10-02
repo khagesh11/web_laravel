@@ -1,2 +1,2 @@
 # web_laravel
-code laraver 5.4 - php 7
+code laravel-5.4 - php 7
